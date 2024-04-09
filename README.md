@@ -1,6 +1,6 @@
 ### Hi there, I'm [LEON, XIANLIANG LI or YINLEUNG LEY!](https://yinleung.github.io) 👋
 
-😄 I am a postgraduate student at [Shenzhen Institute of Advanced Technology](https://www.siat.ac.cn/); see more information at my [homepage](https://yinleung.github.io). I am always ready to learn new things!
+😄 I am a postgraduate student at [Shenzhen Institute of Advanced Technology](https://www.siat.ac.cn/)(see more information at my [homepage](https://yinleung.github.io)). I am always ready to learn new things!
 
 🌱 **My research interests**: I studied physics for my bachelor's degree and worked on joint localization for my first undergraduate year. Now, I am interested in developing new approaches to optimize deep learning algorithms and models regarding training speed, accuracy, etc. I am also interested in adapting new localization techniques to real-world applications such as UAV tracking and moving planning.  
 
