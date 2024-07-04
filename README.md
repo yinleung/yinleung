@@ -2,7 +2,7 @@
 
 😄 I am a postgraduate student at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS).
 
-🌱 **My research interests**: I studied physics for my bachelor's degree and worked on joint localization for my first undergraduate year. Now, I am interested in developing new approaches to optimize deep learning algorithms and models regarding training speed, accuracy, etc. I am also interested in adapting new localization techniques to real-world applications such as UAV tracking and moving planning.  
+🌱 **My research interests**: I studied physics for my bachelor's degree and worked on target localization and path optimization problems for my first year of master. Now, I am interested in theoretical performance analysis and convergence analysis for machine learning and robotic systems and developing new approaches to optimize deep neutal networks and real-world robotic applications.
 
 **Master time**. At SIAT, I work with [Prof. Sheng Xu](https://scholar.google.com/citations?user=nLsqCz4AAAAJ&hl=zh-CN) for **signal processing**. I work with other collaborators for **optimization** and **deep learning**.
 
