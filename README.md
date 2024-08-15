@@ -7,6 +7,7 @@
 **Master time**. At SIAT, I work with [Prof. Sheng Xu](https://scholar.google.com/citations?user=nLsqCz4AAAAJ&hl=zh-CN) for **signal processing**. I work with other collaborators for **optimization** and **deep learning**.
 
 📫 **Contact me by**:
+- Email (yinleung.ley [AT] gmail.com)
 - Email (xl.li4 [AT] siat.ac.cn)
 
 
