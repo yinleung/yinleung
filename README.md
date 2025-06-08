@@ -1,12 +1,11 @@
-### Hi there, I'm LEON, XIANLIANG LI or YINLEUNG LEY 👋- [Homepage](https://yinleung.github.io)
+### Hi there, I'm LEON, XIANLIANG LI 👋- [Homepage](https://yinleung.github.io)
 
-😄 I am a 3rd-year master student at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS). 
+😄 I am an incoming PhD student at [The Institute of Statistical Mathematics]([https://www.ucas.ac.cn/](https://www.ism.ac.jp/index_e.html)) (ISM). 
 
 🌱 **My research interests**: Deep learning theory, optimization.
 
 📫 **Contact me by**:
 - Email (yinleung.ley [AT] gmail.com)
-- Email (xl.li4 [AT] siat.ac.cn)
 
 
 ----
