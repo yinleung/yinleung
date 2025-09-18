@@ -1,6 +1,6 @@
 ### Hi there, I'm LEON, XIANLIANG LI 👋- [Homepage](https://yinleung.github.io)
 
-😄 I am an incoming PhD student at the [Institute of Statistical Mathematics]([https://www.ucas.ac.cn/](https://www.ism.ac.jp/index_e.html)) (ISM). 
+😄 I am a PhD student at the [Institute of Statistical Mathematics]([https://www.ucas.ac.cn/](https://www.ism.ac.jp/index_e.html)) (ISM). 
 
 🌱 **My research interests**: Deep learning theory, optimization.
 
